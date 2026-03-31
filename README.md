@@ -1,4 +1,4 @@
-# Flux Harbor
+# Aero Meridian
 
 Monochrome light-themed ops dashboard with Express API and static UI.
 

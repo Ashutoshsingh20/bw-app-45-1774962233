@@ -1,7 +1,7 @@
 {
   "name": "bw-app-45-1774962233",
   "version": "1.0.0",
-  "description": "Flux Harbor monochrome ops dashboard",
+  "description": "Aero Meridian monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
